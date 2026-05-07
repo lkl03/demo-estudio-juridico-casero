@@ -1,2 +1,7 @@
-# demo-estudio-juridico-casero
-Demo web para ESTUDIO JURIDICO . CASERO — diseñada por eterlab.
+# ESTUDIO JURIDICO . CASERO
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
